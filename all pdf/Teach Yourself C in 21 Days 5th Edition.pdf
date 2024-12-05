@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="assets/images/mtnlogo.ico" type="image/gif" sizes="16x16" />
+    <title></title>
+    <link href="../assets/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="../assets/css/StyleSheet.css" rel="stylesheet" />
+    <link href="../assets/css/StyleSheet.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="navigation">
+        <div class="container">
+            <nav class="navbar navbar-expand-lg navbar-light static-top">
+                <div class="container">
+                    <a class="navbar-brand" href="/home">
+                        <img src="/assets/images/mtnlogo.jpg">
+                    </a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarResponsive">
+                                        </div>
+
+    <!--<a href="#" class="login-btn">Login <i class="fa fa-user"></i>-->
+                    
+                </div>
+            </nav>
+
+        </div>
+    </div>
+   <section class="OutofData-content">
+       <div class="container">
+           <div class="redirect-content">
+               <div class="row">
+                   <div class="col-md-7 col-sm-12 col-12">
+                       <div class="OopsMsg">
+                           <h1>Oops!</h1>
+                           <p>You have exhausted your data</p>
+                       </div>
+                       <div class="OopsBuy">
+                           <p>Buy <span style="color:#c3271a">1.5GB for 1200...</span> with</p>
+                           <div class="btn-group"></div>
+
+                           <div class="row">
+
+                               <div class="col-md-4 col-sm-6 col-12">
+                                   <a href="http://datareset.mtnonline.com/plan" class="btn mtn-yello-md-btn">
+                                       <img src="../assets/images/cardpay.png" /> Card
+                                   </a>
+                               </div>
+                               <div class="col-md-4 col-sm-6 col-12">
+                                   <a href="http://datareset.mtnonline.com/topup" class="btn mtn-yello-md-btn">
+                                       <img src="../assets/images/airtime.png" /> Airtime
+                                   </a>
+                               </div>
+                               <div class="col-md-4 col-sm-6 col-12">
+                                   <a href="http://datareset.mtnonline.com/borrow" class="btn mtn-yello-md-btn">
+                                       <img src="../assets/images/borrow.png" /> Borrow
+                                   </a>
+                               </div>
+                           </div>
+                       </div>
+                   </div>
+                   <div class="col-md-5 col-sm-12 col-12">
+                       <div class="Oopslady">
+                           <img src="../assets/images/woman-withphone-vector.jpg" />
+                       </div>
+                   </div>
+               </div>
+           </div>
+       </div>
+       14   </section>
+
+    <script src="../assets/js/jquery-3.2.1.min.js"></script>
+    <script src="../assets/js/bootstrap.min.js"></script>
+  
+</body>
+</html>
+
